@@ -62,3 +62,5 @@ This project demonstrates a motor control system using an AVR microcontroller, d
 ### Simulation Diagram:
 - Includes an AVR microcontroller, an H-bridge motor driver, and DC motors.
 - Digital switches for input control and virtual oscilloscope for PWM signal monitoring.
+- Circuit diagram:
+![Circuit Diagram](https://github.com/BahaaAhmedOfficial/Embedded-Systems-Projects/blob/main/Line%20Follower%20Car/Circuit%20Diagram.png)
